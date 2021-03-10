@@ -1,1 +1,1 @@
-ativado
+desativado
